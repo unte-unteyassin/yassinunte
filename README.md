@@ -16,7 +16,7 @@ I am a 3rd year student at Xavier University, pursuing BSIT. My journey involves
 - Learning Basic Concepts and Fundamentals of Networking
 - Learning Mobile Apps Development 
 - Learning Software Enginnering
-- Tech Stack
+- Learning Frontend and Backend Database
 
 ## 🏆 Achievements
 - Took on some Roblox game projects
